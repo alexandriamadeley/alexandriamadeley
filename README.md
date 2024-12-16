@@ -1,4 +1,7 @@
-## Hi there 👋
+- ⌨️ I’m currently working on my first projects outside of contract work!
+- 👩🏼‍💻 I’m looking to make a career change into Software Development. 😎
+- 📫 How to reach me: alexandriamadeley@yahoo.com
+- ⚡ Fun fact: I'm a former Math/Science Middle School Educator!
 
 <!--
 **alexandriamadeley/alexandriamadeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
